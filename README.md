@@ -1,0 +1,1 @@
+# inspiron-14-5447-hacintosh-EFI-clover
